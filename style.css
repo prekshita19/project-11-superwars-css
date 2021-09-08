@@ -1,4 +1,31 @@
 .footer{
+  padding-top:10%;
   margin-left : 80px;
   font-size : 18px;
+}
+
+
+#heros{
+  /* background-color:antiquewhite; */
+  text-align:center;
+  display:grid;
+  grid-template-columns:auto auto auto auto auto ;
+  margin-left:15%;
+  margin-right:15%;
+}
+
+#heros>div{
+  /* border: 1px solid black; */
+  margin:25px;
+  /* box-shadow: -5px -5px 5px 5px #aaaaaa; */
+  box-shadow:5px 5px 5px 5px rgba(220,220,220,0.8); 
+  
+}
+
+.written_scores{
+  font-size: 45px;
+}
+
+#score{
+  height:80px;
 }
