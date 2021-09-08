@@ -15,7 +15,7 @@
 }
 
 #heros>div{
-  /* border: 1px solid black; */
+  border: 1px solid rgba(220,220,220);
   margin:25px;
   /* box-shadow: -5px -5px 5px 5px #aaaaaa; */
   box-shadow:5px 5px 5px 5px rgba(220,220,220,0.8); 
